@@ -1,4 +1,4 @@
-# gatsby-source-git
+# gatsby-source-parliament
 
 Source plugin for pulling files into the Gatsby graph from local directory.
 
