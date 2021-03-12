@@ -14,8 +14,8 @@
     "gatsby-plugin",
     "gatsby-source-plugin"
   ],
-  "author": "Steve Tweeddale",
-  "license": "MIT",
+  "author": "Hiren Shah",
+  "license": "Apache 2.0",
   "peerDependencies": {
     "gatsby": ">2.0.0-alpha"
   },
