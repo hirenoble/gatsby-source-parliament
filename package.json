@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-parliament",
+  "name": "@adobe/gatsby-source-parliament",
   "version": "1.0.0",
   "description": "Gatsby plugin for pulling files into Gatsby from local directory",
   "scripts": {
